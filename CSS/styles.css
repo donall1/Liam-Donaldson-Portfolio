@@ -105,6 +105,7 @@ button:focus,
   margin: 0;
   font-size: 40px;
   color: #05676e;
+  background-color: inherit;
 
 }
 
