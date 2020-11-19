@@ -259,8 +259,8 @@ button:focus,
     font-size: 22px;
   }
 
-  .ul {
-    padding-left: 0;
+  ul {
+    margin-left: 0;
   }
 
   .profile {
