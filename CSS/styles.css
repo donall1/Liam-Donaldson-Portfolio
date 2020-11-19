@@ -65,7 +65,7 @@ button,
 .button {
   border: none;
   font-family: inherit;
-  background-color: var(--primary-color);
+  background-color: var(--tertiary-color);
   color: var(--text-color);
   text-decoration: none;
   padding: 10px;
