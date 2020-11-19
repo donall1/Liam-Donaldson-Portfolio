@@ -334,6 +334,10 @@ button:focus,
     font-size: 22px;
   }
 
+  .ul {
+    padding-left: 0px;
+  }
+
   .profile {
     text-align: center;
     display: -webkit-box;
