@@ -92,6 +92,10 @@ button:focus,
   opacity: 0.8;
 }
 
+.button:visited {
+  color: var(--text-color);
+}
+
 .contact-button {
   width: 100%;
 }
