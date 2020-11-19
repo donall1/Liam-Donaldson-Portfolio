@@ -359,7 +359,17 @@ button:focus,
             flex-direction: column;
   }
 
-  .icons {
+  .icons-1 {
+    height: 30px;
+    width: auto;
+  }
+
+  .icons-2 {
+    height: 30px;
+    width: auto;
+  }
+
+  .icons-3 {
     height: 30px;
     width: auto;
   }
